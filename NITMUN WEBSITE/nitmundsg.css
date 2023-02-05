@@ -1,0 +1,131 @@
+.topband
+{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    height:45px;
+    width :100%;
+    background-color: rgba(8, 8, 8, 0.863);
+    
+}
+.header
+{  
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    height:450px;
+    width:100%;
+    background-color: rgb(29, 9, 1,.863);
+    box-shadow: 10px10px10px black;
+}
+.header2
+{
+    position: absolute;
+    margin-top:200px;
+    margin-left:500px;
+    background-color: transparent;
+}
+.lgo
+{
+    position:absolute;
+    margin-top:0px;
+    margin-left:0px;
+
+}
+.lco
+{
+    position:absolute;
+    margin-top:0px;
+    margin-left:45px;
+
+}
+.header3
+{
+    position: absolute;
+    margin-top:250px;
+    margin-left:500px;
+    background-color: transparent;  
+}
+.tlp
+{
+    
+    margin-top:60px;
+    margin-left:150px;
+    width: fit-content;
+}
+.head
+{
+    position: absolute;
+    margin-left: 500px;
+    margin-top:70px;
+   background-color: transparent;
+   height:350px;
+   width:800px;
+   
+}
+.btns
+{    position:absolute ;
+    margin-left:70%;
+    margin-top:0px;
+    height :45px;
+    width :400px;
+    background-color: transparent;
+}
+
+.c1
+{   position :absolute;
+    height :550px;
+    width :450px;
+  margin-top:500px;
+  margin-left:200px;
+  border-color: black;
+  border-radius: 5%;
+  /* background-color: aqua; */  background-color: rgba(88, 20, 2, 0.712);
+
+}
+.c2
+{
+   
+   position :absolute;
+    height :550px;
+    width :450px;
+  margin-top:500px;
+  margin-left:680px;
+  border-color: black;
+  border-radius: 5%;
+  background-color: rgba(88, 21, 2, 0.712);
+}
+.c3
+{
+        position :absolute;   
+    height :550px;
+    width :450px;
+  margin-top:1170px;
+  margin-left:200px;
+  /* background-color: aqua; */  background-color: rgba(88, 20, 2, 0.712);
+
+  border-color: black;
+  border-radius: 5%;
+}
+.c4
+{
+    position :absolute;
+    border-color: black;
+    height :550px;
+    width :450px;
+    margin-top:1170px;
+    margin-left:680px;
+    border-radius: 5%;
+    /* background-color: aqua; */  background-color: rgba(88, 20, 2, 0.712);
+
+}
+.content
+{
+    position: absolute;
+    padding-right:40px;
+    margin-top:135%;
+    margin-right: 30px;
+    width: 1300px;
+    height:450px;
+    /* background-color: aqua; */
+}
